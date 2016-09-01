@@ -12,7 +12,7 @@ class TokenPrompt extends React.Component {
 			<div>
 				<h2>Choose your token</h2>
 				<form>
-					<input type='text'>
+					<input type='select'>
 					<input type='submit'>
 				</form>
 			</div>
